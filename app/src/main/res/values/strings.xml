@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Bus</string>
+
+
+    <string-array name="type">
+        <item>Chrono</item>
+        <item>Tram</item>
+        <item>flexo</item>
+        <item>proximo</item>
+    </string-array>
+
+
+</resources>
